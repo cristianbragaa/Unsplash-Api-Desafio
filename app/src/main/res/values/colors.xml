@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cores customizadas -->
+    <color name="primaria">#6a040f</color>
+    <color name="primaria_variacao">#9d0208</color>
+    <color name="secundaria">#d00000</color>
+    <color name="secundaria_variacao">#dc2f02</color>
+    <color name="preto">#050505</color>
+    <color name="branco">#FFFFFF</color>
+</resources>

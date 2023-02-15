@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "466412738913",
+    "project_id": "unsplashapp-4154d",
+    "storage_bucket": "unsplashapp-4154d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466412738913:android:e7bebb67d27494186ccd20",
+        "android_client_info": {
+          "package_name": "cristian.app.unsplashapidesafio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466412738913-5jvelcq5243uojoa37to64rksrkfucru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC52k7Yx-7bl4VcH-9gnlEBrJBDVNjL7Z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466412738913-5jvelcq5243uojoa37to64rksrkfucru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
